@@ -1,0 +1,1 @@
+set PATH=%PATH%;C:\my-progs\apache-maven-3.8.6\bin

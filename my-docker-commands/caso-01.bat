@@ -1,7 +1,7 @@
 @echo off
 
-set CARTELLA_ROOT=c:\my-source\docker\hello-docker-bck
-set PATH_ROOT_SORGENTE_LINUX=c:/my-source/docker/hello-docker-bck
+set CARTELLA_ROOT=c:\my-source\docker\hello-docker
+set PATH_ROOT_SORGENTE_LINUX=c:/my-source/docker/hello-docker
 set ROOT_NOME_CONTAINER=hello-docker-vecchio
 
 echo ----------------------------

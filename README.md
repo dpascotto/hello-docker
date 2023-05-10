@@ -1,4 +1,4 @@
 # hello-docker
 (versione 3)
 
-Clonato dall'altro, poi giuro un commento senzato ce lo metto
+Caso di esempio per il classico "Hello world" su Docker. Esteso (main in loop) per avere qualcosa di durata non trascurabile sull'ambiente target

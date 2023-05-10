@@ -12,7 +12,7 @@ if "%yn%"=="y" (echo "eseguo maven") else (goto :maven-no)
 
 :maven-si
 echo --------------------------------------------------
-echo -- Eseguo build locale (Maven: clean + install) --
+echo -- Eseguo build locale (Maven: clean + compile) --
 echo --------------------------------------------------
 cd ..
 start c:/my-source/docker/hello-docker/mvnw clean compile
